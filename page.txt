@@ -1,2 +1,3 @@
 a simpel text
 modulo de crear apuesta
+crear tgm single
